@@ -2,7 +2,7 @@
 
 * First, download `nRF Connect` app onto your mobile device and scan for devices
 
-  ![](docs/img/ble_scan.png)
+  <img src="./img/ble_scan.png" align="middle" width="38%">
   
 
 * Connect to your device and press DFU button
