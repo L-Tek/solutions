@@ -2,7 +2,6 @@
 
 * First download `nRF Connect` app onto your mobile device and scan for devices
 
-[IMG scan]
 
 * Connect to your device and press DFU button
 
