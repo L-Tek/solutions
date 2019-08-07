@@ -1,6 +1,6 @@
 ## How to upgrade firmware on a bluetooth device
 
-* First download `nRF Connect` app onto your mobile device and scan for devices
+* First, download `nRF Connect` app onto your mobile device and scan for devices
 
 
 * Connect to your device and press DFU button
